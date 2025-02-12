@@ -1,6 +1,6 @@
 # 🐍 ResNet50-Based Snake Bite Classification  
 
-This project is a **deep learning-based classification model** using **ResNet50** and **TensorFlow** to classify **snake bites as Poisonous or Non-Poisonous** based on wound patterns. The model is trained on an image dataset and fine-tuned for better accuracy.  
+This project is a **deep learning-based classification model** using **ResNet50** and **TensorFlow** to classify **snake bites as Poisonous or Non-Poisonous** based on wound patterns. The model is trained on an image dataset and fine-tuned for better accuracy using GPU.  
 
 ---
 
@@ -17,8 +17,8 @@ This project is a **deep learning-based classification model** using **ResNet50*
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/YOUR_USERNAME/snake-bite-classification.git
-cd snake-bite-classification
+git clone https://github.com/anis196/snk-bite-det.git
+cd snk-bite-det
 ```
 
 ### 2️⃣ Install Dependencies  
@@ -73,6 +73,13 @@ or
 ```plaintext
 Predicted: Non-Poisonous ✅ (Confidence: 0.93)
 ```
+## 📸 Screenshots of terminal 
+
+![Screenshot 2025-02-11 230048](https://github.com/user-attachments/assets/cc2bba40-cfec-414f-bdeb-bf80363d16a9)
+
+![Screenshot 2025-02-11 230108](https://github.com/user-attachments/assets/1cc1bd32-e7a5-4d17-8cb3-693b9b4f6f09)
+
+![Screenshot 2025-02-11 225851](https://github.com/user-attachments/assets/5635feb0-8543-4032-a2ac-a4bf86247576)
 
 ---
 
@@ -91,10 +98,6 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 📬 Contact  
-For any queries, reach out at ✉️ [your.email@example.com](mailto:your.email@example.com).  
+For any queries, reach out at ✉️ [shaikhanis2004@gmail.com](mailto:shaikhanis2004@gmail.com).  
 
 ---
-
-### ✅ **Now Ready for GitHub!**  
-Copy and paste this into `README.md` in your repository. 🚀  
-Let me know if you need any changes! 😊  
