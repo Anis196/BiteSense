@@ -92,6 +92,7 @@ Predicted: Non-Poisonous ✅ (Confidence: 0.93)
 🔹 **Version Control:** Git  
 
 ---
+## 📍THE TRAINED MODEL HASN'T BEEN ADDED DUE TO ITS EXCESSIVE FILE SIZE
 
 ## 📜 License  
 This project is licensed under the **MIT License**.  
