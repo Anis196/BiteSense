@@ -87,7 +87,7 @@ Predicted: Non-Poisonous ✅ (Confidence: 0.93)
 ## 📍THE TRAINED MODEL HASN'T BEEN ADDED DUE TO ITS EXCESSIVE FILE SIZE
 
 ## 📜 License  
-This project is licensed under the **MIT License**[https://github.com/Anis196/Snk-bite-det/blob/main/LICENSE].  
+This project is licensed under the [**MIT License**](https://github.com/Anis196/Snk-bite-det/blob/main/LICENSE).  
 
 ---
 
