@@ -73,14 +73,6 @@ or
 ```plaintext
 Predicted: Non-Poisonous ✅ (Confidence: 0.93)
 ```
-## 📸 Screenshots of terminal 
-
-![Screenshot 2025-02-11 230048](https://github.com/user-attachments/assets/cc2bba40-cfec-414f-bdeb-bf80363d16a9)
-
-![Screenshot 2025-02-11 230108](https://github.com/user-attachments/assets/1cc1bd32-e7a5-4d17-8cb3-693b9b4f6f09)
-
-![Screenshot 2025-02-11 225851](https://github.com/user-attachments/assets/5635feb0-8543-4032-a2ac-a4bf86247576)
-
 
 ---
 
