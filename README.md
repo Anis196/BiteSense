@@ -80,7 +80,7 @@ Predicted: Non-Poisonous ✅ (Confidence: 0.93)
 🔹 **Programming:** Python  
 🔹 **Frameworks:** TensorFlow, Keras  
 🔹 **Libraries:** OpenCV, NumPy, Matplotlib  
-🔹 **Database & Storage:** MySQL (if used), Local Storage  
+🔹 **Database & Storage:** Local Storage  
 🔹 **Version Control:** Git  
 
 ---
