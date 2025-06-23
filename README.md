@@ -1,4 +1,4 @@
-# 🐍 Snake Bite Classification using GPU acceleration
+# 🐍BiteSense : Snake Bite Classification using GPU acceleration
 
 This project is a **deep learning-based classification model** using **ResNet50** and **TensorFlow** to classify **snake bites as Poisonous or Non-Poisonous** based on wound patterns. The model is trained on an image dataset and fine-tuned for better accuracy using GPU.  
 
